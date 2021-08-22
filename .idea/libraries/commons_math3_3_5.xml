@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="commons-math3-3.5">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../iFogSim-master/jars/commons-math3-3.5/commons-math3-3.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../iFogSim-master/jars/cloudsim-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../iFogSim-master/jars/cloudsim-examples-3.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../iFogSim-master/jars/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../iFogSim-master/jars/json-simple-1.1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../iFogSim-master/jars/commons-math3-3.5-bin.zip!/commons-math3-3.5/docs/apidocs" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../iFogSim-master/jars/cloudsim-3.0.3-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../iFogSim-master/jars/cloudsim-examples-3.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
